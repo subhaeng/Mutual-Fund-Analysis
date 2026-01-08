@@ -81,7 +81,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 
 ## 🖼️ Dashboard Preview
 
-![Mutual Fund Dashboard Preview](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
+![Mutual Fund Dashboard Preview](<img width="1515" height="742" alt="Mutual Fund" src="https://github.com/user-attachments/assets/392396c5-e898-4966-9745-b7b65c8a79dd" />)
 
 ---
 
